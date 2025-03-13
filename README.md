@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br>I'm Mulki Aziz, someone who loves creating, exploring, and making things happen.<br><br>💻 Experienced in Backend Development<br>🎸 Also a musician! Currently working on an Indie Rock EP <br>🚀 Always looking for new ideas & collaborations!<br><br>📬 Let’s connect:<br>📷 Instagram: @mulkiazz<br><br>"Keep it simple, make it fun!"
+Hey there! 👋<br>I'm Mulki Aziz, someone who loves creating, exploring, and making things happen.<br><br>💻 Experienced in Backend Development Always looking for new ideas & collaborations!<br><br>📬 Let’s connect:<br>📷 Instagram: @mulkiazz<br><br>"Keep it simple, make it fun!"
 
 
 ## 🌐 Socials:
